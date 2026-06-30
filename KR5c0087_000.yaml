@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5c0087/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 道德真經解序談五聖人以神藏寂寞道在杳冥周流六虛而莫足以知其然酬酢萬變孰敢以窺其跡則一往一來而以元自虛一造一化而以真自修又奚有言以好辨哉聖人默而思之輿情至愚必待引之而後動群性至昏必待誨之而後悟此所以有言載于方册垂乎不朽以為常善之救矣洎乎千載厥道彌遠先聖之意昧者不能取至真之言愚者不能達況我老君之書言明而理遠文近而㫖幽若不釋而申義衆人視之則有如天之遠而不能炳若丹青矣是致今因行化得届塵寰不免援毫以彰大義庶幾乎指示而己
+  hash: sha256:fe2d8b2b0442a638b74052654527606d5854b715dc657730fcc5cdcc594aba88
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5c0087_HFL_000-001a, image: hfl/0388/0388-004.png}
+metadata:
+  title: 道德真經解(二)
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 00:19:48.892558'
+  source:
+    repository: kanripo
+    path: KR5c0087/KR5c0087_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:f8d5692c8a02b8565261b5a56af109697caa26c177e17a17763486308c12e001
